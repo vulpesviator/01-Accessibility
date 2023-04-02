@@ -8,7 +8,7 @@ This project was to bring the Horiseon website into accessibility compliance and
 
 The site is currently deployed for review on [github pages](https://vulpesviator.github.io/01-Accessibility/Develop/index.html). 
 
-[Horiseon Website Screenshot](assets/images/Screenshot%202023-04-02%20at%2010-32-25%20Horiseon%20SEO%20%26%20Online%20Marketing%20Solutions.png)
+![Horiseon Website Screenshot](assets/images/Screenshot%202023-04-02%20at%2010-32-25%20Horiseon%20SEO%20%26%20Online%20Marketing%20Solutions.png)
 
 ## Credits
 
